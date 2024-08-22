@@ -1,0 +1,19 @@
+{
+  "name": "clinic-sheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^142.0.0",
+    "path": "^0.12.7",
+    "stream": "^0.0.3",
+    "util": "^0.12.5",
+    "uuid": "^10.0.0"
+  }
+}
